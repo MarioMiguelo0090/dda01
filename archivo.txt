@@ -1,2 +1,3 @@
 Hola Git
 esta ee ha corregido el bug linea
+Cambio en la rama feature02
