@@ -1,3 +1,7 @@
 Hola Git
 esta ee ha corregido el bug linea
+<<<<<<< HEAD
 Cambio en master
+=======
+Cambio en la rama feature02
+>>>>>>> feature02
